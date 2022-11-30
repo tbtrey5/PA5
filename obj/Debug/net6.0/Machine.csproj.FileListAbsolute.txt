@@ -1,0 +1,15 @@
+/Users/timothybrown/Machine/Machine/bin/Debug/net6.0/Machine
+/Users/timothybrown/Machine/Machine/bin/Debug/net6.0/Machine.deps.json
+/Users/timothybrown/Machine/Machine/bin/Debug/net6.0/Machine.runtimeconfig.json
+/Users/timothybrown/Machine/Machine/bin/Debug/net6.0/Machine.dll
+/Users/timothybrown/Machine/Machine/bin/Debug/net6.0/Machine.pdb
+/Users/timothybrown/Machine/Machine/obj/Debug/net6.0/Machine.csproj.AssemblyReference.cache
+/Users/timothybrown/Machine/Machine/obj/Debug/net6.0/Machine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timothybrown/Machine/Machine/obj/Debug/net6.0/Machine.AssemblyInfoInputs.cache
+/Users/timothybrown/Machine/Machine/obj/Debug/net6.0/Machine.AssemblyInfo.cs
+/Users/timothybrown/Machine/Machine/obj/Debug/net6.0/Machine.csproj.CoreCompileInputs.cache
+/Users/timothybrown/Machine/Machine/obj/Debug/net6.0/Machine.dll
+/Users/timothybrown/Machine/Machine/obj/Debug/net6.0/refint/Machine.dll
+/Users/timothybrown/Machine/Machine/obj/Debug/net6.0/Machine.pdb
+/Users/timothybrown/Machine/Machine/obj/Debug/net6.0/Machine.genruntimeconfig.cache
+/Users/timothybrown/Machine/Machine/obj/Debug/net6.0/ref/Machine.dll
